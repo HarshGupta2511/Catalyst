@@ -1,4 +1,4 @@
-# Catalyst Backend 🚀
+# Catalyst Backend 
 
 A company procurement and project management dashboard backend built with NestJS, TypeScript, and PostgreSQL.
 
@@ -58,7 +58,6 @@ git --version
 
 ### 1. Clone the repository
 ```bash
-git clone git@github.com:HarshGupta2511/catalyst-backend.git
 cd catalyst-backend
 ```
 
